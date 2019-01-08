@@ -10,3 +10,4 @@ Zelena LED: PC9
 Modra LED: PC8
 
 # KOMENTAR  
+Program je bil zahteven. S pomočjo spleta nama je uspelo (SOS). 
