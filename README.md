@@ -10,4 +10,4 @@ Zelena LED: PC9
 Modra LED: PC8
 
 # KOMENTAR  
-Vaja je bil dokaj zahteven. S pomočjo spleta nama je uspelo (SOS). 
+Vaja je bila dokaj zahtevna. S pomočjo spleta nama je uspelo narediti c) primer s tipko 3 za SOS primer. 
